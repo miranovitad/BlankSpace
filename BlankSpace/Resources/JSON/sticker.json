@@ -1,0 +1,138 @@
+[
+    {
+        "id": "1",
+        "name": "Tent",
+        "fileName": "Tent",
+        "url": "",
+        "price": 100,
+        "keyword": "tent",
+        "category": "Hobby"
+    },
+    {
+        "id": "2",
+        "name": "Doctor A",
+        "fileName": "Bu Dokter",
+        "url": "",
+        "price": 100,
+        "keyword": "doctor",
+        "category": "Work, Health"
+    },
+    {
+        "id": "3",
+        "name": "Candy",
+        "fileName": "Candy",
+        "url": "",
+        "price": 100,
+        "keyword": "candy, lollipop, sweet",
+        "category": "Others"
+    },
+    {
+        "id": "4",
+        "name": "Dino",
+        "fileName": "Dino",
+        "url": "",
+        "price": 100,
+        "keyword": "dinosaur, dino",
+        "category": "Others"
+    },
+    {
+        "id": "5",
+        "name": "Doctor B",
+        "fileName": "Mas Dokter",
+        "url": "",
+        "price": 100,
+        "keyword": "doctor",
+        "category": "Work, Health"
+    },
+    {
+        "id": "6",
+        "name": "Doctor C",
+        "fileName": "Pak Dokter",
+        "url": "",
+        "price": 100,
+        "keyword": "doctor",
+        "category": "Work, Health"
+    },
+    {
+        "id": "7",
+        "name": "Squid Box",
+        "fileName": "Squid Box",
+        "url": "",
+        "price": 100,
+        "keyword": "squidgame, box",
+        "category": "Others"
+    },
+    {
+        "id": "8",
+        "name": "Squid Candy",
+        "fileName": "Squid Candy",
+        "url": "",
+        "price": 100,
+        "keyword": "squidgame, candy, sweet",
+        "category": "Others"
+    },
+    {
+        "id": "9",
+        "name": "Squid Card",
+        "fileName": "Squid Card",
+        "url": "",
+        "price": 100,
+        "keyword": "squidgame, card",
+        "category": "Others"
+    },
+    {
+        "id": "10",
+        "name": "Squid Doll",
+        "fileName": "Squid Doll",
+        "url": "",
+        "price": 100,
+        "keyword": "squidgame, doll, girl, kid, cute",
+        "category": "Others"
+    },
+    {
+        "id": "11",
+        "name": "Squid Guard A",
+        "fileName": "Squid Guard A",
+        "url": "",
+        "price": 100,
+        "keyword": "squidgame, guard",
+        "category": "Others"
+        
+    },
+    {
+        "id": "12",
+        "name": "Squid Guard B",
+        "fileName": "Squid Guard B",
+        "url": "",
+        "price": 100,
+        "keyword": "squidgame, guard",
+        "category": "Others"
+    },
+    {
+        "id": "13",
+        "name": "Squid Guard C",
+        "fileName": "Squid Guard C",
+        "url": "",
+        "price": 100,
+        "keyword": "squidgame, guard",
+        "category": "Others"
+    },
+    {
+        "id": "14",
+        "name": "Squid Jacket",
+        "fileName": "Squid Jacket",
+        "url": "",
+        "price": 100,
+        "keyword": "squidgame, jacket",
+        "category": "Hobby, Others"
+    },
+    {
+        "id": "15",
+        "name": "Squid",
+        "fileName": "Squid",
+        "url": "",
+        "price": 100,
+        "keyword": "squid",
+        "category": "Hobby, Others"
+    }
+]

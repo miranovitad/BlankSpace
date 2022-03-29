@@ -1,0 +1,147 @@
+[
+    {
+        "id": "1",
+        "text": "I know this won’t be easy, {first name}, but I also know you’ve got what it takes to get through it.",
+        "category": "negative"
+    },
+    {
+        "id": "2",
+        "text": "Be good to yourself, {first name}. And let others be good to you, too.",
+        "category": "negative"
+    },
+    {
+        "id": "3",
+        "text": "You’re being so strong—and patient, {first name}. Keep the faith. Things are going to start looking up soon.",
+        "category": "negative"
+    },
+    {
+        "id": "4",
+        "text": "We’ve got friends for our happiest days and saddest moments. I hope you know I’m your friend now just as much as ever.",
+        "category": "negative"
+    },
+    {
+        "id": "5",
+        "text": "Hi, {first name}. Just wanted to send you a smile today. Smile!",
+        "category": "negative"
+    },
+    {
+        "id": "6",
+        "text": "Sorry things are crappy, {first name}. If you need somebody to binge-watch a whole season of something with you, I’m there.",
+        "category": "negative"
+    },
+    {
+        "id": "7",
+        "text": "I believe in you, {first name}! And unicorns. But mostly you!",
+        "category": "negative"
+    },
+    {
+        "id": "8",
+        "text": "At a time like this, don’t even bother with a dish. Just grab a spoon and start shovelling ice cream straight from the carton.",
+        "category": "negative"
+    },
+    {
+        "id": "9",
+        "text": "You can get through this, {first name}. Take it from me. I’m very wise and stuff.",
+        "category": "negative"
+    },
+    {
+        "id": "10",
+        "text": "I know life is really tough right now, but I’m proud of the way you’re hanging in there. Keep it up, {first name}!",
+        "category": "negative"
+    },
+    {
+        "id": "11",
+        "text": "You may have lost the game, {first name}, but you never gave up. That makes you a winner.",
+        "category": "negative"
+    },
+    {
+        "id": "12",
+        "text": "What you’re going through stinks. I’ll be holding my nose along with you until things get better.",
+        "category": "negative"
+    },
+    {
+        "id": "13",
+        "text": "Hearts take time to heal, {first name}. Be gentle with yourself, kay?",
+        "category": "negative"
+    },
+    {
+        "id": "14",
+        "text": "You are so brave for speaking up about your problem, {first name}!",
+        "category": "negative"
+    },
+    {
+        "id": "15",
+        "text": "You’ve got it made, {first name}!",
+        "category": "positive"
+    },
+    {
+        "id": "16",
+        "text": "That’s good! I know you could do it, {first name}.",
+        "category": "positive"
+    },
+    {
+        "id": "17",
+        "text": "Good work! Keep working on it, {first name}. You’re improving!",
+        "category": "positive"
+    },
+    {
+        "id": "18",
+        "text": "You are doing a good job, {first name}!",
+        "category": "positive"
+    },
+    {
+        "id": "19",
+        "text": "That’s it, {first name}! Now you’ve figured it out.",
+        "category": "positive"
+    },
+    {
+        "id": "20",
+        "text": "Congratulation! You’ve passed this day!",
+        "category": "positive"
+    },
+    {
+        "id": "21",
+        "text": "You are getting better and better.",
+        "category": "positive"
+    },
+    {
+        "id": "22",
+        "text": "Nice going. You are on the right track now.",
+        "category": "positive"
+    },
+    {
+        "id": "23",
+        "text": "Wow! Keep up the good work, {first name}.",
+        "category": "positive"
+    },
+    {
+        "id": "24",
+        "text": "Terrific! Nothing can stop you now.",
+        "category": "positive"
+    },
+    {
+        "id": "25",
+        "text": "Right on. That’s the way to do it.",
+        "category": "positive"
+    },
+    {
+        "id": "26",
+        "text": "I knew you could do it, {first name}!",
+        "category": "positive"
+    },
+    {
+        "id": "27",
+        "text": "Good thinking! You are really improving.",
+        "category": "positive"
+    },
+    {
+        "id": "28",
+        "text": "Nice point, {first name}. That’s an interesting way of looking at it.",
+        "category": "positive"
+    },
+    {
+        "id": "29",
+        "text": "Super-Duper! That looks like it is going to be a great journal.",
+        "category": "positive"
+    }
+]

@@ -1,0 +1,450 @@
+[
+    {
+        "id": "1",
+        "text": "What surprised you the most?",
+        "aspect": "Hobby"
+    },
+    {
+        "id": "2",
+        "text": "What did that become your hobby?",
+        "aspect": "Hobby"
+    },
+    {
+        "id": "3",
+        "text": "Do you see yourself continuing this hobby in the long run?",
+        "aspect": "Hobby"
+    },
+    {
+        "id": "4",
+        "text": "What's your favourite part of your hobby?",
+        "aspect": "Hobby"
+    },
+    {
+        "id": "5",
+        "text": "Where are you dying to travel?",
+        "aspect": "Hobby"
+    },
+    {
+        "id": "6",
+        "text": "What have you done for fun today?",
+        "aspect": "Hobby"
+    },
+    {
+        "id": "7",
+        "text": "What new skills did you learn today?",
+        "aspect": "Hobby"
+    },
+    {
+        "id": "8",
+        "text": "What new skills do you want to learn?",
+        "aspect": "Hobby"
+    },
+    {
+        "id": "9",
+        "text": "What did frustrated you?",
+        "aspect": "Hobby"
+        
+    },
+    {
+        "id": "10",
+        "text": "What’s your favourite book/movie of all time, and why did it speak to you so much?",
+        "aspect": "Hobby"
+    },
+    {
+        "id": "11",
+        "text": "What did you do together today?",
+        "aspect": "Friend"
+    },
+    {
+        "id": "12",
+        "text": "What annoyed you the most?",
+        "aspect": "Friend"
+    },
+    {
+        "id": "13",
+        "text": "If you can turn back the time, what would you do?",
+        "aspect": "Friend"
+    },
+    {
+        "id": "14",
+        "text": "What are you looking for in your friendship?",
+        "aspect": "Friend"
+    },
+    {
+        "id": "15",
+        "text": "What you loved the most about your friend?",
+        "aspect": "Friend"
+    },
+    {
+        "id": "16",
+        "text": "What is the craziest thing that you’ve done with your friends?",
+        "aspect": "Friend"
+    },
+    {
+        "id": "17",
+        "text": "What makes you feel loved?",
+        "aspect": "Relationship"
+    },
+    {
+        "id": "18",
+        "text": "If you could change one thing about your relationship, what would you change?",
+        "aspect": "Relationship"
+    },
+    {
+        "id": "19",
+        "text": "What is one thing your partner does that you wish s/he would stop doing?",
+        "aspect": "Relationship"
+    },
+    {
+        "id": "20",
+        "text": "What are the qualities you’re looking for in someone you want to grow old with?",
+        "aspect": "Relationship"
+    },
+    {
+        "id": "21",
+        "text": "Do you believe in soul mates?",
+        "aspect": "Relationship"
+    },
+    {
+        "id": "22",
+        "text": "What was your favourite romantic moment, and why?",
+        "aspect": "Relationship"
+    },
+    {
+        "id": "23",
+        "text": "What is your idea of a perfect date?",
+        "aspect": "Relationship"
+    },
+    {
+        "id": "24",
+        "text": "What is a relationship deal-breaker for you?",
+        "aspect": "Relationship"
+    },
+    {
+        "id": "25",
+        "text": "What did your last relationship teach you?",
+        "aspect": "Relationship"
+    },
+    {
+        "id": "26",
+        "text": "Are you more into looks or brains?",
+        "aspect": "Relationship"
+    },
+    {
+        "id": "27",
+        "text": "What scares you the most?",
+        "aspect": "Family"
+    },
+    {
+        "id": "28",
+        "text": "If you can give your parents one thing in the world, what would it be?",
+        "aspect": "Family"
+    },
+    {
+        "id": "29",
+        "text": "What you wished you want to change?",
+        "aspect": "Family"
+    },
+    {
+        "id": "30",
+        "text": "What is the best advice you’ve ever been given?",
+        "aspect": "Family"
+    },
+    {
+        "id": "31",
+        "text": "What is your favourite childhood memory?",
+        "aspect": "Family"
+    },
+    {
+        "id": "32",
+        "text": "Which parent are you closer to, and why?",
+        "aspect": "Family"
+    },
+    {
+        "id": "33",
+        "text": "What are you trying to accomplish?",
+        "aspect": "Future"
+    },
+    {
+        "id": "34",
+        "text": "Is there anything you see inside of yourself you’re not sure of?",
+        "aspect": "Future"
+    },
+    {
+        "id": "35",
+        "text": "What is the one thing you would like to change about yourself today, and why?",
+        "aspect": "Future"
+    },
+    {
+        "id": "36",
+        "text": "What is a dream you’ve never said out loud?",
+        "aspect": "Future"
+    },
+    {
+        "id": "37",
+        "text": "If you could do anything for the rest of your life, what would that be?",
+        "aspect": "Future"
+    },
+    {
+        "id": "38",
+        "text": "If you could do anything knowing you would not fail, what would you do?",
+        "aspect": "Future"
+    },
+    {
+        "id": "39",
+        "text": "What does make you feel afraid ?",
+        "aspect": "Future"
+    },
+    {
+        "id": "40",
+        "text": "What is a small goal you are currently working towards?",
+        "aspect": "Work"
+    },
+    {
+        "id": "41",
+        "text": "What have you accomplished this month?",
+        "aspect": "Work"
+    },
+    {
+        "id": "42",
+        "text": "What career path do you see yourself taking in the future?",
+        "aspect": "Work"
+    },
+    {
+        "id": "43",
+        "text": "What did you learn today?",
+        "aspect": "Work"
+    },
+    {
+        "id": "44",
+        "text": "How far is your achievement?",
+        "aspect": "Work"
+    },
+    
+    {
+        "id": "45",
+        "text": "What does make you failed?",
+        "aspect": "Work"
+    },
+    {
+        "id": "46",
+        "text": "Do you enjoy the majority of your work?",
+        "aspect": "Work"
+    },
+    {
+        "id": "47",
+        "text": "How do you feel today?",
+        "aspect": "Work"
+    },
+    {
+        "id": "48",
+        "text": "What is your financial goal?",
+        "aspect": "Finance"
+    },
+    {
+        "id": "49",
+        "text": "What do you value the most?",
+        "aspect": "Finance"
+    },
+    {
+        "id": "50",
+        "text": "What do you value the most?",
+        "aspect": "Finance"
+    },
+    {
+        "id": "51",
+        "text": "What lessons about money did you learn from your parents?",
+        "aspect": "Finance"
+    },
+    {
+        "id": "52",
+        "text": "What’s stopping me from achieving my financial goals? ",
+        "aspect": "Finance"
+    },
+    {
+        "id": "53",
+        "text": "What would life be like without money?",
+        "aspect": "Finance"
+    },
+    {
+        "id": "54",
+        "text": "How would the world be different if all the money was shared out equally among all people?",
+        "aspect": "Finance"
+    },
+    {
+        "id": "55",
+        "text": "How can I make my goals happen?",
+        "aspect": "Finance"
+    },
+    {
+        "id": "56",
+        "text": "How important is money?",
+        "aspect": "Finance"
+    },
+    {
+        "id": "57",
+        "text": "What are my long-term goals and aspirations?",
+        "aspect": "Finance"
+    },
+    {
+        "id": "58",
+        "text": "Why do these things affect you so much? done",
+        "aspect": "Others"
+    },
+    {
+        "id": "59",
+        "text": "How does it make you feel? done",
+        "aspect": "Others"
+    },
+    {
+        "id": "60",
+        "text": "What excites you right now? done",
+        "aspect": "Others"
+    },
+    {
+        "id": "61",
+        "text": "What is the best thing that happened to you today? done",
+        "aspect": "Others"
+        
+    },
+    {
+        "id": "62",
+        "text": "What are you most thankful for?",
+        "aspect": "Others"
+    },
+    {
+        "id": "63",
+        "text": "What makes you feel most alive?",
+        "aspect": "Others"
+    },
+    {
+        "id": "64",
+        "text": "What do you spend most of your energy on?",
+        "aspect": "Others"
+    },
+    {
+        "id": "65",
+        "text": "When do you feel you are most vulnerable?",
+        "aspect": "Others"
+    },
+    {
+        "id": "66",
+        "text": "What was the best phase of your life?",
+        "aspect": "Others"
+    },
+    {
+        "id": "67",
+        "text": "What was the worst phase of your life?",
+        "aspect": "Others"
+    },
+    {
+        "id": "68",
+        "text": "Is what you are doing now what you always wanted to do growing up?",
+        "aspect": "Others"
+    },
+    {
+        "id": "69",
+        "text": "What is your biggest regret in life so far?",
+        "aspect": "Others"
+    },
+    {
+        "id": "70",
+        "text": "What did you learn today?",
+        "aspect": "Study"
+    },
+    {
+        "id": "71",
+        "text": "How far is your achievement?",
+        "aspect": "Study"
+    },
+    {
+        "id": "72",
+        "text": "What does make you failed?",
+        "aspect": "Study"
+    },
+    {
+        "id": "73",
+        "text": "What’s something you hope to accomplish this year?",
+        "aspect": "Study"
+    },
+    {
+        "id": "74",
+        "text": "Why did you choose my current degree in the first place?",
+        "aspect": "Study"
+    },
+    {
+        "id": "75",
+        "text": "What’s the biggest lesson you learned in the last year?",
+        "aspect": "Study"
+    },
+    {
+        "id": "76",
+        "text": "What was the hardest thing you had to do today?",
+        "aspect": "Study"
+    },
+    {
+        "id": "77",
+        "text": "What do you want to learn about?",
+        "aspect": "Study"
+    },
+    {
+        "id": "78",
+        "text": "What do you like most about school so far? What would you like to see changed?",
+        "aspect": "Study"
+    },
+    {
+        "id": "79",
+        "text": "What is your proudest moment?",
+        "aspect": "Study"
+    },
+    {
+        "id": "80",
+        "text": "How was your treatment going?",
+        "aspect": "Health"
+    },
+    {
+        "id": "81",
+        "text": "How do you feel today?",
+        "aspect": "Health"
+    },
+    {
+        "id": "82",
+        "text": "Where does it hurt?",
+        "aspect": "Health"
+    },
+    {
+        "id": "83",
+        "text": "Are you feeling any better?",
+        "aspect": "Health"
+    },
+    {
+        "id": "84",
+        "text": "You’ve seemed withdrawn lately, is everything okay?",
+        "aspect": "Health"
+    },
+    {
+        "id": "85",
+        "text": "What's taking yo most of your headspace right now?",
+        "aspect": "Health"
+    },
+    {
+        "id": "86",
+        "text": "How have you been sleeping?",
+        "aspect": "Health"
+    },
+    {
+        "id": "87",
+        "text": "How have you been doing for exercise?",
+        "aspect": "Health"
+    },
+    {
+        "id": "88",
+        "text": "What did you do today tgat made you feel good?",
+        "aspect": "Health"
+    },
+    {
+        "id": "89",
+        "text": "What are you grateful for right now?",
+        "aspect": "Health"
+    },
+]
